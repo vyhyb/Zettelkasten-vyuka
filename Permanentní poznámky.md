@@ -1,0 +1,2 @@
+# Permanentní poznámky
+Permanentní poznámky rozvíjejí vaše nápady a propojují vaše vědomosti v návaznosti na [[Biblio poznámky]]. Je dobré je psát tak, abyste se k nim mohli kdykoli vrátit. Pokud máte nápad, nejprve si vytvořte [[Letmé poznámky]] a ty pak pomocí zařazení do vašich stávajících vědomostí přetavte v permanentní poznámky.
