@@ -24,10 +24,12 @@
 - [[Práce s grafem]]
 - [[Para]]
 - [[MOC]]
-- [[Digitální zahrada]]
 
 ## Další zdroje
-
-
+- [Druhý mozek stavaře/BIM manažera](https://www.youtube.com/watch?v=SXvr8WjTzsc)
+- [PKM info](https://bit.ly/pkminfo)
+- [Omnivore](https://omnivore.app/)
+- [Digitální zahrada Tomáše Marka](https://publish.obsidian.md/tomasmarek/Br%C3%A1na+do+zahrady)
+- [Stavlab](https://stavlab.cz/)
 
 #review

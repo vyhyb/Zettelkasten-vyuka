@@ -2,7 +2,7 @@
 Poznámky si ve škole děláme celý život. Kolik z nich je ale pro nás užitečných? Kolik z nich aktivně tvoří naše vědomosti?
 
 [Jak si děláte poznámky?](https://www.menti.com/)
-kód: 8426 4204
+kód: na tabuli :)
 
 Dobré poznámky jsou:
 - čitelné i po mnoha letech
