@@ -15,6 +15,7 @@
 - [[Pluginy pro Obsidian]]
 - [[Témata vzhledu]]
 - [[Markdown syntaxe]]
+- [[Odkazy a základní nastavení provazování]]
 - Příklad [[Jdem na pivo]]
 
 ## Část 3 - Příklady práce s Obsidianem
