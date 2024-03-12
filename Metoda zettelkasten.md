@@ -18,3 +18,9 @@ Stěžejní tedy nebyla jejich obsáhlost, ale právě **vyjádření vztahu mez
 Jak se nyní ukazuje, tento přístup zapadá do současné představy o [[Fungování lidské paměti]].
 
 Jednou z možností jak v současné době využít sílu této metody je aplikace [[Obsidian]].
+
+### Další zdroje
+![Zettelkasten Note-Taking Method: Simply Explained (Shu Omi)](https://www.youtube.com/watch?v=rOSZOCoqOo8)
+
+![My simple note-taking setup | Zettelkasten in Obsidian | Step-by-step guide (Artem Kirsanov)](https://www.youtube.com/watch?v=E6ySG7xYgjY)
+

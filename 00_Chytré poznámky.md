@@ -21,14 +21,14 @@
 ## Část 3 - Příklady práce s Obsidianem
 - [[Synchronizace]]
 - [[Výpisky z literatury, provázání se Zoterem]]
+- [[PARA]]
 - [[Zápisy]]
 - [[Práce s grafem]]
-- [[Para]]
 - [[MOC]]
 
 ## Další zdroje
-- [Druhý mozek stavaře/BIM manažera](https://www.youtube.com/watch?v=SXvr8WjTzsc)
-- [PKM info](https://bit.ly/pkminfo)
+- [Druhý mozek stavaře/BIM manažera (JoRe)](https://www.youtube.com/watch?v=SXvr8WjTzsc)
+- [PKM info (JoRe)](https://bit.ly/pkminfo)
 - [Omnivore](https://omnivore.app/)
 - [Digitální zahrada Tomáše Marka](https://publish.obsidian.md/tomasmarek/Br%C3%A1na+do+zahrady)
 - [Stavlab](https://stavlab.cz/)
